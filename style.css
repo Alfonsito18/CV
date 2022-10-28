@@ -1,0 +1,26 @@
+body{
+  background-color:#EAF6F6;
+  }
+
+.facebook{
+  max-width:8%;
+  height:auto;
+} 
+h3{
+color:#66BFBF;
+}
+hr{
+  border-style: none;
+  border-top-style:dotted;
+  border-color:grey;
+  border-width:5px;
+  width:10%;
+}
+.myContact{
+   color:#66BFBF;
+  font-family:"Lucida Console","Courier New;
+}
+.name{
+  color:#66BFBF;
+  font-family:"Lucida Console","Courier New;
+}
